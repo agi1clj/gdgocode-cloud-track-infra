@@ -1,1 +1,0 @@
-bucket = "rebeldot-gdgocode-tfstate"

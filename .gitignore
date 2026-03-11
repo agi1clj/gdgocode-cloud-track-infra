@@ -8,6 +8,8 @@
 # Local variables
 *.tfvars
 !*.tfvars.example
+*.hcl
+!*.hcl.example
 
 # Plans and crash logs
 *.tfplan

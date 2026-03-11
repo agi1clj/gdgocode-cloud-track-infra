@@ -1,6 +1,6 @@
 # GDGoCode Cloud Track Infra
 
-OpenTofu infrastructure for the Cluj-Napoca AQI app.
+OpenTofu infrastructure for the GDGoCode Cloud Track workshop app.
 
 This repo provisions the cloud resources used by the companion app repo [gdgocode-cloud-track-app](https://github.com/agi1clj/gdgocode-cloud-track-app).
 
