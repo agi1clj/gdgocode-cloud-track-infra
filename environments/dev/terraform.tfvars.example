@@ -1,0 +1,8 @@
+project_id          = "replace-with-your-gcp-project-id"
+team_name           = "team01"
+region              = "europe-west3"
+frontend_image      = "your-dockerhub-user/gdgocode-cloud-track-frontend:sha-abc1234"
+backend_image       = "your-dockerhub-user/gdgocode-cloud-track-backend:sha-abc1234"
+frontend_event_name = "GDGoCode 2026"
+backend_cors_origin = "*"
+backend_read_only   = true

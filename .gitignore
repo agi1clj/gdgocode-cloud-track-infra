@@ -1,0 +1,20 @@
+# Terraform/OpenTofu working directory
+.terraform/
+
+# State files
+*.tfstate
+*.tfstate.*
+
+# Local variables
+*.tfvars
+!*.tfvars.example
+
+# Plans and crash logs
+*.tfplan
+crash.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
