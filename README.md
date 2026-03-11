@@ -2,7 +2,7 @@
 
 OpenTofu infrastructure for the Cluj-Napoca AQI app.
 
-This repo provisions the cloud resources used by the companion app repo [gdgocode-cloud-track-app](../gdgocode-cloud-track-app).
+This repo provisions the cloud resources used by the companion app repo [gdgocode-cloud-track-app](https://github.com/agi1clj/gdgocode-cloud-track-app).
 
 The bootstrap module also enables the required Google Cloud APIs for the workshop environment.
 
@@ -120,7 +120,7 @@ Password behavior:
 
 Use the app repo walkthrough for the end-to-end process:
 
-- [../gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md](../gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md)
+- [gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md](https://github.com/agi1clj/gdgocode-cloud-track-app/blob/main/docs/cloud-deploy-walkthrough.md)
 
 That guide covers:
 
@@ -134,7 +134,7 @@ That guide covers:
 
 For the fallback IAM grant commands, see the app repo guide:
 
-- [../gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md](../gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md)
+- [gdgocode-cloud-track-app/docs/cloud-deploy-walkthrough.md](https://github.com/agi1clj/gdgocode-cloud-track-app/blob/main/docs/cloud-deploy-walkthrough.md)
 
 Recommended reading order:
 
