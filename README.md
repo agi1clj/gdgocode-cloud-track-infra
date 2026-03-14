@@ -15,6 +15,16 @@ The bootstrap module also enables the required Google Cloud APIs for the worksho
 - one Cloud SQL database user
 - one Secret Manager secret for `DB_PASSWORD`
 
+## Authenticate to Google Cloud
+
+Run:
+
+```bash
+gcloud auth login
+gcloud auth application-default login
+gcloud config set project YOUR_GCP_PROJECT_ID
+```
+
 ## Repository structure
 
 ```text
