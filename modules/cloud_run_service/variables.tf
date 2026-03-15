@@ -44,6 +44,11 @@ variable "memory" {
   default = "512Mi"
 }
 
+variable "deletion_protection" {
+  type    = bool
+  default = false
+}
+
 variable "env_vars" {
   type    = map(string)
   default = {}
